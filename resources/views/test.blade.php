@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+
+
     <h1>Hello I am Test</h1>
+
+    <p>This is footer section</p>
 </body>
 </html>
